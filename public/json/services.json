@@ -1,0 +1,45 @@
+{
+  "services" : [
+
+    {
+      "image-url" : "",
+      "title" : "Broker for Construction Materials ",
+      "body": "Agent Broker for Construction Materials."
+
+    },
+
+    {
+      "image-url" : "",
+      "title" : "Building Construction",
+      "body": "Structural framing for residencial building construction."
+
+    },
+
+    {
+      "image-url" : "",
+      "title" : "Highway geotechnical Inspection",
+      "body": "Wick drain installation for roadway compaction.drain installation for roadway compaction"
+
+    },
+
+    {
+      "image-url" : "",
+      "title" : "Building frensic and construction inspection",
+      "body": "Forensic analysis of existing building and new construction inspection."
+
+    },
+
+    {
+      "image-url" : "",
+      "title" : "Transportation support Facility",
+      "body": "Salt Barn Construction and Inspection."
+
+    },
+
+    {
+      "image-url" : "",
+      "title" : "Bridge Abutment",
+      "body" : "Bridge Construction Inspection and Construction Management."
+    }
+  ]
+}
