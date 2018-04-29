@@ -109,7 +109,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features1.png" alt=""></div>
                                         <h4>Modern Design</h4>
-                                        <p>Quisque pulvinar libero dolor, quis bibendum eros euismod sit amet. Proin dapibus id diam at</p>
+                                        <p>We provide building designs that will surely wow you and stand out among other buildings.</p>
                                     </div>
                                 </div>
 
@@ -117,7 +117,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features2.png" alt=""></div>
                                         <h4>Construction Managment</h4>
-                                        <p>Pellentesque non diam euismod metus vehicula varius. Donec et velit placerat arcu lobortis.</p>
+                                        <p>Count on us to stand with you from the start of the construction till you're completely satisfied.</p>
                                     </div>
                                 </div>
 
@@ -125,7 +125,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features3.png" alt=""></div>
                                         <h4>General Contractor</h4>
-                                        <p>Gravida at convallis a, tempor sed magna. Pellentesque non diam euismod metus vehicula</p>
+                                        <p>We render all construction and construction related services such as supplying building materials.</p>
                                     </div>
                                 </div>
 
@@ -265,15 +265,15 @@
                             <div class="col-md-6">
                                 <div class="features box4">
                                     <h4><i class="fa fa-cogs"></i>Transparency</h4>
-                                    <p>Morbi vehicula a nibh in commodo. Aliquam quis dolor eget lectus pulvinar malesuada. Suspendisse eu rhoncus ligula. </p>
+                                    <p>Nothing is hidden. We are honest and will keep you informed throughout the project, answering any questions you might have along the way.  </p>
                                 </div>
                                 <div class="features box4">
                                     <h4><span><i class="fa fa-diamond"></i>Expertise</span></h4>
-                                    <p>Nam orci metus, varius at nisl at, tempor facilisis magna. Ut maximus felis tincidunt lacinia. Nulla malesuada ipsum at magna condimentum pharetra.</p>
+                                    <p>There's nothing we haven not dealt with in the construction industry. And that is no surprise based on over 30 years of experience.</p>
                                 </div>
                                 <div class="features box4">
                                     <h4><span><i class="fa fa-suitcase"></i>Reliability</span></h4>
-                                    <p>Fusce viverra risus diam, in luctus nulla porta vel. Etiam nunc lorem, dapibus augue vitae, lacinia pharetra eros. Fusce ac egestas purus, non porta est.</p>
+                                    <p>Our services are MBE/DBE/SBE certified and provided in accordance with the Federal, States, Cities and Counties specifications.</p>
                                 </div>
                             </div>
                         </div>

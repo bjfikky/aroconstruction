@@ -30,10 +30,10 @@
                                     <h4>Contact Info</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque metus arcu, malesuada a est eget, maximus efficitur sapien. </p>
                                     <ul class="none-style">
-                                        <li><i class="fa fa-home"></i> 379 5th Ave  New York, NYC 10018</li>
-                                        <li><i class="fa fa-phone"></i> (+1) 96 716 6879</li>
-                                        <li><i class="fa fa-fax"></i> (+1) 96 716 6879</li>
-                                        <li><i class="fa fa-envelope-o"></i> contact@site.com</li>
+                                        <li><i class="fa fa-home"></i> 9831 Sadler Lane, Perry Hall, MD 21128</li>
+                                        <li><i class="fa fa-phone"></i>  (+1) 410 776 7550</li>
+                                        <li><i class="fa fa-mobile-phone"></i> (+1) 443 474 8046</li>
+                                        <li><i class="fa fa-envelope-o"></i> laokpulor@yahoo.com</li>
                                         <li><i class="fa fa-clock-o"></i> Mon-Fri 09:00 - 17:00 Mon-Fri</li>
                                     </ul>
                                 </div>
