@@ -14,14 +14,20 @@
 
 
 Route::get('/', 'HomeController@index')->name('home');
-Route::get('/about', 'AboutController@index');
-Route::get('/contact', 'ContactController@index');
-Route::get('/services', 'ServiceController@index');
-Route::get('/blog', 'BlogController@index');
 
-Route::get('/dashboard', 'DashboardController@index')->middleware('auth');
+Route::get('/about', 'AboutController@index');
+
+Route::get('/contact', 'ContactController@index');
+Route::post('/contact', 'ContactController@store');
+
+Route::get('/services', 'ServiceController@index');
+
+Route::get('/blog', 'BlogController@index');
 Route::get('/blog/create', 'BlogController@create')->middleware('auth');
 Route::post('/blog', 'BlogController@store')->middleware('auth');
+
+
+Route::get('/dashboard', 'DashboardController@index')->middleware('auth');
 
 
 Route::get('/sign-in', 'SessionController@index');

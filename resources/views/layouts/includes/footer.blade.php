@@ -36,7 +36,7 @@
                         <p><i class="fa fa-home"></i> 9831 Sadler Lane, MD 21128</p>
                         <p><i class="fa fa-phone"></i> (+1) 410 776 7550</p>
                         <p><i class="fa fa-mobile"></i> (+1) 443 474 8046</p>
-                        <p><i class="fa fa-envelope-o"></i> laokpulor@yahoo.com</p>
+                        <p><i class="fa fa-envelope-o"></i> info@aroconstructionservices.com</p>
                         <p><i class="fa fa-clock-o"></i> Mon-Fri 09:00 - 17:00 Mon-Fri</p>
                     </div>
                 </div>

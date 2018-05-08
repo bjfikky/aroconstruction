@@ -1094,9 +1094,7 @@ h2.after:after {
   float: left;
   padding: 0 10px;
 }
-.error {
-  display: none;
-}
+
 p .error {
   color: red;
   font-size: 12px;

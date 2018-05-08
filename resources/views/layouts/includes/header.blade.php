@@ -11,11 +11,11 @@
 <header class="static">
     <div class="container">
         <h1 class="logo">
-            <a href="index.html"><img src="{{ asset('images/logo.png') }}" alt=""></a>
+            <a href="{{ action('HomeController@index') }}"><img src="{{ asset('images/logo.png') }}" alt=""></a>
         </h1>
         <div class="top-info">
             <p><span>Cell Phone:</span> (+1) 443 474 8046</p>
-            <p class="e-mail"><span>Email:</span> <a href="#">laokpulor@yahoo.com</a></p>
+            <p class="e-mail"><span>Email:</span> <a href="mailto:info@aroconstructionservices.com">info@aroconstructionservices.com</a></p>
             <div class="socials">
                 <a href="https://fb.me/AroConstructionServices" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
