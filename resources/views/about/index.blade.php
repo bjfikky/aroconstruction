@@ -114,7 +114,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features1.png"></div>
                                         <h4>Modern Design</h4>
-                                        <p>Quisque pulvinar libero dolor, quis bibendum eros euismod sit amet. Proin dapibus id diam at</p>
+                                        <p>We provide building designs that will surely wow you and stand out among other buildings.</p>
                                     </div>
                                 </div>
 
@@ -122,7 +122,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features2.png"></div>
                                         <h4>Construction Managment</h4>
-                                        <p>Pellentesque non diam euismod metus vehicula varius. Donec et velit placerat arcu lobortis.</p>
+                                        <p>Count on us to stand with you from the start of the construction till you're completely satisfied.</p>
                                     </div>
                                 </div>
 
@@ -130,7 +130,7 @@
                                     <div class="features">
                                         <div class="top-img"><img src="images/features3.png"></div>
                                         <h4>General Contractor</h4>
-                                        <p>Gravida at convallis a, tempor sed magna. Pellentesque non diam euismod metus vehicula</p>
+                                        <p>We render all construction and construction related services such as supplying building materials.</p>
                                     </div>
                                 </div>
 
