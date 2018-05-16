@@ -2,44 +2,44 @@
   "services" : [
 
     {
-      "image-url" : "",
+      "image-url" : "/images/const/materials.jpg",
       "title" : "Broker for Construction Materials ",
-      "body": "Agent Broker for Construction Materials."
+      "body": "Agent Broker for numerous quality Construction Materials."
 
     },
 
     {
-      "image-url" : "",
+      "image-url" : "/images/const/building.jpg",
       "title" : "Building Construction",
-      "body": "Structural framing for residencial building construction."
+      "body": "Architectural design and construction of residential and commercial buildings."
 
     },
 
     {
-      "image-url" : "",
-      "title" : "Highway geotechnical Inspection",
+      "image-url" : "/images/const/highway.jpg",
+      "title" : "Highway Geo-technical Inspection",
       "body": "Wick drain installation for roadway compaction.drain installation for roadway compaction"
 
     },
 
     {
-      "image-url" : "",
-      "title" : "Building frensic and construction inspection",
+      "image-url" : "/images/const/inspection.jpg",
+      "title" : "Building Inspection",
       "body": "Forensic analysis of existing building and new construction inspection."
 
     },
 
     {
-      "image-url" : "",
-      "title" : "Transportation support Facility",
-      "body": "Salt Barn Construction and Inspection."
+      "image-url" : "/images/const/transport.jpg",
+      "title" : "Transportation Support Facility",
+      "body": "Transportation of construction materials from suppliers to construction site."
 
     },
 
     {
-      "image-url" : "",
+      "image-url" : "/images/const/bridge.jpg",
       "title" : "Bridge Abutment",
-      "body" : "Bridge Construction Inspection and Construction Management."
+      "body" : "Bridge construction, inspection, and construction management."
     }
   ]
 }

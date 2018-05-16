@@ -43,7 +43,7 @@
                                 <div class="contact-form">
 
                                     @if(Session::has('message'))
-                                        <div class="alert alert-success">{{ Session::get('message') }}</div>
+                                        <div class="alert alert-success"><strong><i class="fa fa-info-circle" aria-hidden="true"></i> {{ Session::get('message') }}</strong></div>
                                     @endif
 
                                     <h4>Send us a message</h4>

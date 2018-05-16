@@ -28,10 +28,11 @@
                             @foreach( $services as $service)
                                 <div class="col-md-4 col-sm-6">
                                     <div class="service-box">
-                                        <a href="service-details.html"><img src="http://placehold.it/841x500/ccc.jpg" alt=""></a>
                                         <h4><a href="service-details.html">{{ $service['title'] }}</a></h4>
+                                        <a href="service-details.html"><img src={{ $service['image-url'] }} alt=""></a>
+
                                         <p>{{ $service['body'] }}</p>
-                                        <a href="service-details.html" class="more-link">Read More</a>
+                                        {{--<a href="service-details.html" class="more-link">Read More</a>--}}
                                     </div>
                                 </div>
                             @endforeach

@@ -2557,3 +2557,11 @@ li.services {
   color: #ffae4e;
   cursor: pointer;
 }
+
+.service-box {
+  padding: 0px 10px;
+}
+
+.service-box p {
+  padding: 20px 0px;
+}

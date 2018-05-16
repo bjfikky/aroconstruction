@@ -17,7 +17,7 @@
                         <div class="row">
 
                             <div class="col-md-6">
-                                <h5><a class="add-new-post"><i class="fa fa-plus" aria-hidden="true"></i><span> Add New</span></a></h5>
+                                <h5><a href="{{ action('BlogController@create') }}" class="add-new-post"><i class="fa fa-plus" aria-hidden="true"></i><span> Add New</span></a></h5>
                                 <ul class="list-group">
                                     <li class="list-group-item disabled"><h3>Blog Posts</h3></li>
                                     <a class="list-group-item">Dapibus ac facilisis in</a>
