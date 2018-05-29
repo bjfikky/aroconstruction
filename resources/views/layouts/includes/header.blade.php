@@ -47,7 +47,7 @@
 
                 <li><a href="{{ action('ServiceController@index') }}">Services</a></li>
                 <li><a href="{{ action('AboutController@index') }}">About Us</a></li>
-                <li><a href="">Blog</a></li>
+                {{--<li><a href="">Blog</a></li>--}}
                 <li><a href="{{ action('ContactController@index') }}">Contact Us</a></li>
 
                 {{--<li class="menu-item-has-children">--}}

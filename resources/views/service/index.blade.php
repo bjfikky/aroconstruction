@@ -48,7 +48,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="call-action">
-                                    <h4>We’ve Completed More Than 100+ project for our amazing clients, if you interested?</h4>
+                                    <h4>We Have Worked on More Than 50+ Projects with Clients, if you interested?</h4>
                                     <a href="#" class="ot-btn btn-color">Get a quote</a>
                                 </div>
                             </div>

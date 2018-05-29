@@ -28,7 +28,7 @@
                             <div class="col-md-4">
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
-                                    <p>Use any of the medium below to reach out to us. It usually takes about 48 hours for us to reply emails. </p>
+                                    <p>Use any of the mediums below to reach out to us. It usually takes about 48 hours for us to reply emails. </p>
                                     <ul class="none-style">
                                         <li><i class="fa fa-home"></i> 9831 Sadler Lane, Perry Hall, MD 21128</li>
                                         <li><i class="fa fa-phone"></i>  (+1) 410 776 7550</li>

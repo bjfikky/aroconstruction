@@ -4,24 +4,11 @@
     {
       "name" : "Dr. Chris Duru",
       "title" : "",
-      "company" : "",
+      "company" : "Fidelity Resources Inc.",
       "testimony": "A.R.O. Construction Services is a dependable company. I was highly satisfied with office renovation work they did for me."
 
-    },
-
-    {
-      "name" : "Benjamin Orimoloye",
-      "title" : "Web Developer",
-      "company" : "DHS",
-      "testimony": "Imagine that we have a list of servers and their associated public keys. To store that data as JSON, we could store it as an array of comma-separated string objects, which might look something like this"
-
-    },
-
-    {
-      "name" : "Allen Ivy",
-      "title" : "Doctor",
-      "company" : "John Hopkins",
-      "testimony" : "Dwellder anifa chorux pasadena rncoen. Will be able ti work ydhn a geatdgggfg fgfgfg fg"
     }
+
+
   ]
 }

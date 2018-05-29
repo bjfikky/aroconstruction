@@ -2,13 +2,13 @@
     <div class="widget-footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="widget">
                         <h4><img src="{{ asset('images/logo-footer.png') }}" alt=""></h4>
                         <p>ARO Construction Services LLC (AROCS) is a registered residential, commercial, small industrial, environmental, and roadway related pre-construction and construction services contractor.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="widget">
                         <h4>Company</h4>
                         <div class="row">
@@ -16,21 +16,19 @@
                                 <ul>
                                     <li><a href="{{ action('HomeController@index') }}">Home</a></li>
                                     <li><a href="{{ action('ServiceController@index') }}">Services</a></li>
-                                    <li><a href="{{ action('AboutController@index') }}">About Us</a></li>
-                                    <li><a href="{{ action('ContactController@index') }}">Contact</a></li>
+
                                 </ul>
                             </div>
                             <div class="col-xs-6 col-lg-7">
                                 <ul>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="">Projects</a></li>
-                                    <li><a href="#">404 Page</a></li>
+                                    <li><a href="{{ action('AboutController@index') }}">About Us</a></li>
+                                    <li><a href="{{ action('ContactController@index') }}">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <h4>Contact Us</h4>
                     <div class="textwidget">
                         <p><i class="fa fa-home"></i> 9831 Sadler Lane, MD 21128</p>
@@ -40,17 +38,17 @@
                         <p><i class="fa fa-clock-o"></i> Mon-Fri 09:00 - 17:00 Mon-Fri</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
-                    <h4>Gallery</h4>
-                    <div class="gallery-image">
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                        <a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>
-                    </div>
-                </div>
+                {{--<div class="col-md-3 col-sm-6">--}}
+                    {{--<h4>Gallery</h4>--}}
+                    {{--<div class="gallery-image">--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                        {{--<a href="#"><img src="http://placehold.it/80x80/ccc.jpg" alt=""></a>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
             </div>
         </div>
     </div>

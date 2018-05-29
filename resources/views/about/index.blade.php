@@ -47,7 +47,7 @@
                                     <div class="accordion_in">
                                         <div class="acc_head"><i class="fa fa-crop"></i>Creative Design</div>
                                         <div class="acc_content">
-                                            <p>Fusce ornare mi vel risus porttitor dignissim. Nunc eget risus at ipsum blandit ornare vel sed velit. Proin gravida arcu nisl, a dignissim mauris placerat id. Vivamus interdum urna at sapien varius elementum. Suspendisse ut mi felis et interdum libero lacinia vel. Aenean elementum odio ut lorem cursus, pellentesque. </p>
+                                            <p>No two projects are exactly alike. This is why we apply a touch of creativity onto everything we design, making sure that all our designs are unique and beautiful. </p>
                                         </div>
                                     </div>
 
@@ -142,10 +142,10 @@
                 <section class="team-about">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-4 col-sm-6">
                                 <div class="team-member">
                                     <div class="member-image">
-                                        <img src="http://placehold.it/207x206/ccc.jpg" alt="">
+                                        <img src="{{ asset('images/ceo1.jpg') }}" alt="">
                                         <div class="overlay">
                                             <div class="social-team">
                                                 <a href="#"><i class="fa fa-envelope"></i></a>
@@ -154,59 +154,17 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <h5>Peter Hart</h5>
-                                    <p>Construction Manager</p>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="team-member">
-                                    <div class="member-image">
-                                        <img src="http://placehold.it/207x207/ccc.jpg" alt="">
-                                        <div class="overlay">
-                                            <div class="social-team">
-                                                <a href="#"><i class="fa fa-vimeo"></i></a>
-                                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h5>Betty Lane</h5>
-                                    <p>Project Manager</p>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="team-member">
-                                    <div class="member-image">
-                                        <img src="http://placehold.it/200x200/ccc.jpg" alt="">
-                                        <div class="overlay">
-                                            <div class="social-team">
-                                                <a href="#"><i class="fa fa-envelope"></i></a>
-                                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h5>Richard Pierce</h5>
-                                    <p>Architect Electric</p>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="team-member">
-                                    <div class="member-image">
-                                        <img src="http://placehold.it/211x211/ccc.jpg" alt="">
-                                        <div class="overlay">
-                                            <div class="social-team">
-                                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h5>Janice Rose</h5>
-                                    <p>Construction Engineer</p>
+                                    <h5>Lawrence Okpulor</h5>
+                                    <p>Founder and CEO</p>
                                 </div>
                             </div>
 
+                            <div class="col-md-8 col-sm-6">
+                                <p>Lawrence Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos
+                                    ducimus eligendi eum ipsum itaque nemo nostrum quaerat sit vel. Ab amet distinctio dolorem
+                                    ipsam iusto obcaecati quae reiciendis, sunt.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -216,7 +174,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="call-action">
-                                    <h4>We’ve Completed More Than 100+ project for our amazing clients, if you interested?</h4>
+                                    <h4>We Have Worked on More Than 50+ Projects with Clients, if you interested?</h4>
                                     <a href="#" class="ot-btn btn-color">Get a quote</a>
                                 </div>
                             </div>
