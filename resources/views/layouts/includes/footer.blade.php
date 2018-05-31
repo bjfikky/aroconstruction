@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="widget">
-                        <h4><img src="{{ asset('images/logo-footer.png') }}" alt=""></h4>
+                        <h4><img src="{{ asset('images/logo-dark.png') }}" alt=""></h4>
                         <p>ARO Construction Services LLC (AROCS) is a registered residential, commercial, small industrial, environmental, and roadway related pre-construction and construction services contractor.</p>
                     </div>
                 </div>
